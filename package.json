@@ -4,12 +4,15 @@
   "description": "First application",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js",
+    "app1": "node ./app1.js",
+    "app2": "node ./app2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.1.2"
+    "node-fetch": "^2.1.2",
+    "ps-node": "^0.1.6",
+    "terminate": "^2.1.0"
   }
 }

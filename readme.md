@@ -1,2 +1,5 @@
-npm install
-npm start
+`npm install`
+
+`npm run app1`
+
+`npm run app2`
