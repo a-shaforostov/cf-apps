@@ -1,0 +1,674 @@
+info: Start new process with arguments: IDENTIFIER-undefined PARENT-undefined
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: gD72DcA
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: 5o94hDc
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: qDO3pgf
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: BBD8C0a
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: ppYm492
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: Pc2WTYj
+info: pid: 10092. IDENTIFIER: L9ipbdc. case 1 (fork 368)
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: KY4Hlvw
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: fQ6sf9f
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: wPSdPrb
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: GXXr9H1
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: hyHKXYF
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: E4bfGJa
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: JGSWbT0
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: gmV278s
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: tQER7Yg
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: 4k2o4jB
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: fh5XF0z
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: dA9RrI0
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: vhdLfNj
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: Te3U5bx
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: aUg9u0y
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: mpGkJ7O
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: C0H6FHU
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: eSCqGZP
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: DzbjVa6
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: hEK73jH
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: qL177yD
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: tyyAlm7
+info: pid: 10092. IDENTIFIER: L9ipbdc. Codefresh random string: BLWnsz4
+info: pid: 10092. IDENTIFIER: L9ipbdc. case 2 (exit)
+info: Start new process with arguments: IDENTIFIER-L9ipbdc PARENT-10092
+info: kill 10092 process from 368
+error: process 10092 not found. Can't kill it.
+info: pid:   368. IDENTIFIER: L9ipbdc. case (expired ID) get new one
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: vcc4WVs
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: RrLCWP1
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: jF9jC08
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: BGSk7FW
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: eb6J0oX
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: PEJZFbd
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: J6Q7qEL
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: uBffivd
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: YrWiUn8
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: TyDQC5n
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: q9mxin3
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: OaU6e4p
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: 8nDorH5
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: 7E20pCc
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: 2kNTh51
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: fqZ3Vzn
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: aHYFueG
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: wMMNv1o
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: oE9UNia
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: 4LBsigk
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: VX7296b
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: k4WwrNm
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: HqgCOaC
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: CML6nMP
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: zUQpf2o
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: q4d5r1h
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: qsoxW9O
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: vAaUgba
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: fyVkYeH
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: mbHH0Wt
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: WhxUIr4
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: TuxW9Fz
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: N7T3pnv
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: 2JGBm6s
+info: pid:   368. IDENTIFIER: S5fWiS8. Codefresh random string: fDGkeVF
+info: pid:   368. IDENTIFIER: S5fWiS8. case 0 (update)
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: mMMWd5d
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: d1HrQdr
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: Wd3OwjY
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: aaKd0lE
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: 6B57QBX
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: moziQDx
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: Oi2Ktxi
+info: pid:   368. IDENTIFIER: 4XhgLKn. Codefresh random string: 6c33cDn
+info: pid:   368. IDENTIFIER: 4XhgLKn. case 0 (update)
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: NZE7ZGV
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: pK0FcyZ
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: DAxVpB2
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: FdaM4dE
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: zM8NUcd
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: 63ZUzAn
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: q4VbsFx
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: oGO5rpe
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: GcE3IT7
+info: pid:   368. IDENTIFIER: kUnD7lU. case 1 (fork 3792)
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: BYVnWkl
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: RWbm0Os
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: Oh3kCGs
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: cUuONU8
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: j8xZDOQ
+info: pid:   368. IDENTIFIER: kUnD7lU. case 1 (fork 10300)
+info: pid:   368. IDENTIFIER: kUnD7lU. Codefresh random string: FGuudXf
+info: pid:   368. IDENTIFIER: kUnD7lU. case 0 (update)
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: RawjyKf
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: PfA3KXJ
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: GIoviXP
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: MJY26zK
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: yCeVKEa
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: vr1Fm1o
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: huubqPS
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: utwzDx5
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 3nrMuHQ
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: N8YNvI7
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: TSN3LTK
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: bO5vx1v
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 3HlHRaE
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: to5lhAR
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: h2mZKe4
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 0CicOrs
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: e7FKnSi
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: rYLG4T3
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: hvnLatF
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: GWjW0RG
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: DZJ2l0P
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 5vbzez7
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 40ZIFiM
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: UEUnS0C
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: S86cjjr
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: ldLW0UH
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: QhJiUbM
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: mBISEGf
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 8vlV8yt
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: Hdqa1QP
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 7vHH0Z0
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: sh1eQlG
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: qan9xO3
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: XdnZAq5
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 6AY7Kgq
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: 3qB3pur
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: CVX61vv
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: nVUsPR9
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: iMAU0Cz
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: PJ6xcp4
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: r3dCRmO
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: hvjLOwK
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: Y541NFS
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: Z8f1DY6
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: I1cJL7P
+info: pid:   368. IDENTIFIER: ccyr0Nz. Codefresh random string: M44KqzT
+info: Start new process with arguments: IDENTIFIER-kUnD7lU PARENT-368
+info: kill 368 process from 10300
+info: pid: 10300. IDENTIFIER: kUnD7lU. case (expired ID) get new one
+info: Start new process with arguments: IDENTIFIER-kUnD7lU PARENT-368
+info: kill 368 process from 3792
+error: process 368 not found. Can't kill it.
+info: pid:  3792. IDENTIFIER: kUnD7lU. case (expired ID) get new one
+info: pid: 10300. IDENTIFIER: nWugeUx. Codefresh random string: ahCSlXw
+info: pid: 10300. IDENTIFIER: nWugeUx. case 2 (exit)
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: cxFclwz
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: pZxhrPE
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: GulK2a6
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: oF0sTum
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: EXO7iBS
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: iMlIc3R
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: JtAXoC9
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: 0TC06xq
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: QkFOYRd
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: wcSjtWL
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: S5Fqq9k
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: yTK0wnO
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: lBEo0o9
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: 9ezkCF5
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: Fp6iyLX
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: ZqOUOK1
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: L7c7LK3
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: phA3HTj
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: tfxQo0k
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: OYuR26T
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: cZa6oF7
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: DiWGipY
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: fj3AU9B
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: GaVxceP
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: MPfDuYB
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: VakVQdM
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: 4sbLzRk
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: O9ZUHhV
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: Ppa7Rti
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: Id37yln
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: dTDLXkU
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: y2i9kCj
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: YWiYLQa
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: tB1BGxX
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: PQzpfi6
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: 0uCebsn
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: Fyh4Yu4
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: pON8UXy
+info: pid:  3792. IDENTIFIER: 685ac0N. Codefresh random string: oB7cQjJ
+info: pid:  3792. IDENTIFIER: 685ac0N. case 0 (update)
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: JJ5bbHo
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: KMXYhrT
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: FRIZFh4
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: e0Uh1zK
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: 8vygGYj
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: tDIrqJJ
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: j8GzaFQ
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: Id1hcYh
+info: pid:  3792. IDENTIFIER: l5Okaix. Codefresh random string: kJQkdCD
+info: pid:  3792. IDENTIFIER: l5Okaix. case 0 (update)
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: IwWR8gQ
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: XdKOgwf
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: 7USm9vp
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: I6VxHbb
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: Lw2syOV
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: 5KylDyi
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: FLmXTLL
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: kKL1CZC
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: mZllv4K
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: 4tJnp0Y
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: 8gNgris
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: cz6D2ym
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: z0FfI9h
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: 9jtgKdw
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: xC9eZVU
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: o8QiP0t
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: vQrmVAz
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: oKj2a3W
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: EqpgytO
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: DApjjPr
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: oEwFwqO
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: DtUinP0
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: ct00MlD
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: usu4FTD
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: tMQQTFR
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: ByPX5wA
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: pSUH5N2
+info: pid:  3792. IDENTIFIER: 8BP8BrW. Codefresh random string: hgZX6s2
+info: pid:  3792. IDENTIFIER: 8BP8BrW. case 2 (exit)
+info: Start new process with arguments: IDENTIFIER-undefined PARENT-undefined
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: 1kEPv5k
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: nucuAiC
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: nXlxlX4
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: wSBvsbI
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: dC0KTDj
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: E5zcm0P
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: EduKVyc
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: MhR11gi
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: IGI8szC
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: bKMvp6h
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: 3YvXL6o
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: 37uB4f6
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: BfbNueW
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: 5R1Wi5S
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: U0e3m6b
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: HWMR58M
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: Fl3GLrZ
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: 5wKPYVP
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: dUZ1Um7
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: JEto8sA
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: MRXiMVU
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: WapEei1
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: Sna8LsD
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: Qw308LJ
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: yX7VBYv
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: Cu51fJY
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: BSgaNXX
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: OZjvud8
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: LS1c7Yt
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: eQil6fU
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: F5WInDq
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: WHvPL4i
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: vXl6E5l
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: eLLjECi
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: pOZZEua
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: lj7VRte
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: vGVlFbc
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: 6sQFIF1
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: FhXRe7y
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: esvIQVe
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: gyYA9sI
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: sx5zSVw
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: 1dqtDRC
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: N5HjcoE
+info: pid:  1388. IDENTIFIER: NPEPNUa. case 1 (fork 19400)
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: VSGHQ90
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: zW3rWfj
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: Fonp238
+info: pid:  1388. IDENTIFIER: NPEPNUa. Codefresh random string: bvvoq9S
+info: pid:  1388. IDENTIFIER: NPEPNUa. case 2 (exit)
+info: Start new process with arguments: IDENTIFIER-NPEPNUa PARENT-1388
+info: kill 1388 process from 19400
+error: process 1388 not found. Can't kill it.
+info: pid: 19400. IDENTIFIER: NPEPNUa. case (expired ID) get new one
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: iNG3yON
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 0BdlPwb
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: KdOb6T3
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: pESp5N2
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: qTUD4pf
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Vu3ClLG
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: r7tpMBX
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: GeDhwMi
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: sfdZoNr
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: mAQffMZ
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: pyKW7iS
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: OpdClCg
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: aCQ6J9r
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: GK04Epp
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: h0TEhw2
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: kbtLpDy
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Z8yVLGK
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 47sFY5n
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: lqbene7
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: TxMsR4O
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: NQmLrk4
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: FHy1j66
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: StNYVbZ
+info: pid: 19400. IDENTIFIER: 0MrSPmz. case 1 (fork 17532)
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: tNpDdn5
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: MOS92jp
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: c6otaPx
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 3zUjVm6
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 68k3vU3
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: wZFDYIB
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: DYDvkg2
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Er9Kcmg
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: e3G33w2
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: jsWrHs1
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: gclB0T9
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Zx8hHvP
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 15LJw6W
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: BNLlfPx
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: qRbz580
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: uivvjwL
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: nVmxF9R
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: hrFsXqU
+info: pid: 19400. IDENTIFIER: 0MrSPmz. case 1 (fork 22380)
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: l0W2Wb6
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: lBLknMz
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: qU0NVSL
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: SELuN57
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: QBK9hEa
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: qNBMJTo
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: XNVnRLZ
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: KAS8GXZ
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: azbajG4
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 6uNyE6k
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Co3wBzo
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: RgDfjLt
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: QQO1NBZ
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: vVxieAO
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: ocYKyZU
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: VFMwcuG
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: jlkKewm
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: czfHRkT
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: rydwdzI
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: OZ7uu9i
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 5OEvxSl
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: hDTGl7o
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: MOFAyNx
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: uTkbCqy
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 35NNO3c
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: npUo9U5
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: WaUyrr1
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: qwdyDEs
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: owl92Nu
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: kqAdCDC
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: k6Qs2Ag
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: mYNxe4c
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Ytsttt0
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: cIiU80B
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 6PNM3st
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: w3LAwRs
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: yle3Oyo
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: mQLpBMf
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: 2CROMtn
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: M6LsMm8
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: RFmbrXN
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: NGmOOaM
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: GHImh59
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: ITIfzNF
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: ZA6T6OH
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Y32HrUM
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: zgmZTqg
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: xBTOCP2
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: PokL4Er
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: o4WyNCd
+info: pid: 19400. IDENTIFIER: 0MrSPmz. Codefresh random string: Nv2Qjcy
+info: pid: 19400. IDENTIFIER: 0MrSPmz. case 0 (update)
+info: pid: 19400. IDENTIFIER: 834AmkA. Codefresh random string: ZElij0y
+info: Start new process with arguments: IDENTIFIER-0MrSPmz PARENT-19400
+info: kill 19400 process from 17532
+info: pid: 17532. IDENTIFIER: 0MrSPmz. case (expired ID) get new one
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: qhL2B0D
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: Po9e92n
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: V1EGe3J
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: UbVgX97
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: J9wftZB
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: rLthgTW
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: 20luMwS
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: oUOSTQ2
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: TRtyXN4
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: RVtuoM2
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: y6Tjbn2
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: ezKzk0o
+info: pid: 17532. IDENTIFIER: zfcQk6C. Codefresh random string: lBEngjf
+info: pid: 17532. IDENTIFIER: zfcQk6C. case 0 (update)
+info: pid: 17532. IDENTIFIER: Pg1XY8S. Codefresh random string: r00MvGa
+info: pid: 17532. IDENTIFIER: Pg1XY8S. Codefresh random string: 6vUNLwg
+info: Start new process with arguments: IDENTIFIER-0MrSPmz PARENT-19400
+info: pid: 17532. IDENTIFIER: Pg1XY8S. case 0 (update)
+info: kill 19400 process from 22380
+error: process 19400 not found. Can't kill it.
+info: pid: 22380. IDENTIFIER: 0MrSPmz. case (expired ID) get new one
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: GCjjPMp
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: cqd0En9
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: tKmubms
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: zuzYYoj
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: OF5rDyt
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 8mne3Gh
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: byPwxP4
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: JScVOdC
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: VhZwnDS
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: V5hzCOd
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: snV29T2
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: ExWCS2t
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 0on0QsK
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: kMdq7Ya
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: qphfsFM
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: gX8Mdi2
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: UkGGmJ8
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: AMs3t65
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: LUnDtYr
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: Y8Y23vs
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: MW7P7a0
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: zY6YRbQ
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: iDeqjG3
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: B46jvh5
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: GXklGju
+info: pid: 17532. IDENTIFIER: cEf1UWN. case 1 (fork 6488)
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: tZ5ihyX
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 9PUJNDk
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: N96VDA7
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: LeDwpxK
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: VEyVm48
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: PkTeIFS
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: j8nqKYy
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: tmlR18g
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: XdaF8w6
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: OgKZdGk
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: cLyZfEd
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: bLcyqxu
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: Udi3I4g
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: gDVCuFL
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: suz3Wge
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: qusGeAS
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: VAVlkqc
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: aQQW1dN
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: 5U9mOrX
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: G8t2WMZ
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: jWw4F2X
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: ZirrXCe
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: gpkx2Hv
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: FJUUQUP
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: rC94huT
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: tRU158i
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: glkX6Y1
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: PFfSeKl
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: Lit8pbJ
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: yFIZ19P
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: bkSbW4f
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: VEXAucy
+info: pid: 22380. IDENTIFIER: SrLbbdk. Codefresh random string: mim0lgR
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: WLgQKui
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: bWA8kX1
+info: pid: 22380. IDENTIFIER: SrLbbdk. case 0 (update)
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 0tTHSIW
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: FPAds8S
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: bGLt7LK
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: qLO2xdT
+info: pid: 17532. IDENTIFIER: cEf1UWN. case 1 (fork 12600)
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: bFdvFrF
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: MixY2SS
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: KwcVnA8
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: geLDFNv
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: Q5hMD1Q
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: RS5FSe7
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: uz3Yyhx
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: mEXJqDU
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: sSAbSmT
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: 3RApYsY
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: yUJcTF1
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: Q8ybyhs
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: xulTlWU
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: NhKBet0
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: w3qwzqn
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 3gBwE75
+info: pid: 22380. IDENTIFIER: VKYLYfj. case 1 (fork 11076)
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: EhyvjTs
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: 0wG4KeC
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: WAPOKjb
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: l4RGQds
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: sB1kxD1
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: seUZogK
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: shA5TNZ
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: XzxgnNM
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: Hng6NiP
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: TJ0XSBq
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: JsmqbZt
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: 9ytigml
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: QYjhkA2
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: AfQXFGz
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 5VC8KmF
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: HQAAoi9
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 3gIWEzU
+info: pid: 22380. IDENTIFIER: VKYLYfj. case 1 (fork 10924)
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: mzPcmvo
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: iCuhnv1
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 3XCIz5B
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: ZJE6feE
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 0S31Ob5
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: 8KJQilx
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: pMjHfvp
+info: pid: 22380. IDENTIFIER: VKYLYfj. Codefresh random string: DMQ7UkE
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: heeFAm6
+info: pid: 22380. IDENTIFIER: VKYLYfj. case 2 (exit)
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: vaWqWhK
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: ZeOU9dP
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: crztWc7
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: 2imhdnc
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: nZQ6JMG
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: M3dRoGm
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: sVraOW0
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: ixhtyWQ
+info: pid: 17532. IDENTIFIER: cEf1UWN. Codefresh random string: erjAueG
+info: pid: 17532. IDENTIFIER: cEf1UWN. case 2 (exit)
+info: Start new process with arguments: IDENTIFIER-cEf1UWN PARENT-17532
+info: kill 17532 process from 6488
+error: process 17532 not found. Can't kill it.
+info: pid:  6488. IDENTIFIER: cEf1UWN. case (expired ID) get new one
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: ph60jmE
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: YBhKuKx
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: X07VKga
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: RQreVx9
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: wYEYGJn
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: skoXSJS
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: qnhpv4x
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: RGc1U0f
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: fuu8YRw
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: 9BEvKf9
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: DIyQ25M
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: f5D9Zhp
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: BI1oFnp
+info: pid:  6488. IDENTIFIER: m63cNua. Codefresh random string: oZ4fNE1
+info: pid:  6488. IDENTIFIER: m63cNua. case 0 (update)
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: gmgZmok
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: uK3vOjO
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: 4H21btn
+info: Start new process with arguments: IDENTIFIER-cEf1UWN PARENT-17532
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: imgFwGP
+info: kill 17532 process from 12600
+error: process 17532 not found. Can't kill it.
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: BBgK9b5
+info: pid: 12600. IDENTIFIER: cEf1UWN. case (expired ID) get new one
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: 1FdQ3Oy
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: FKmEmfj
+info: pid: 12600. IDENTIFIER: e7PDgNt. Codefresh random string: ag3bx9I
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: Y4mVCBh
+info: pid: 12600. IDENTIFIER: e7PDgNt. case 2 (exit)
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: ns9kICd
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: ahoIUM2
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: n8Hj0Dz
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: gUGkuYn
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: Ny7DVL8
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: nTBz7CL
+info: Start new process with arguments: IDENTIFIER-VKYLYfj PARENT-22380
+info: kill 22380 process from 11076
+error: process 22380 not found. Can't kill it.
+info: pid: 11076. IDENTIFIER: VKYLYfj. case (expired ID) get new one
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: BDOvypw
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: 4D3q5K7
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: pU7zwFa
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: 9F6wLsJ
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: Y9N2CdV
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: tvkr2IO
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: LOwUsaK
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: V4qr9G7
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: lJFc3iK
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: I14XxVC
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: SlLOrEL
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: dsNYU0N
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: 2vTkmhT
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: BET2rfu
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: T5LwG3A
+info: Start new process with arguments: IDENTIFIER-VKYLYfj PARENT-22380
+info: kill 22380 process from 10924
+error: process 22380 not found. Can't kill it.
+info: pid: 10924. IDENTIFIER: VKYLYfj. case (expired ID) get new one
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: CwgOJPn
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: hvVD6Wa
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: vutjyEp
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: CTRTVJ8
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: RJ6zBGI
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: BJnTPqB
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: 6YFvAdr
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: M7SeamN
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: Himz2h3
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: o7lK08Z
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: 8YFuIQ7
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: y1sNmfH
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: w38LeK2
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: 2Vqyvbh
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: 7EThmlT
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: wtMOfki
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: PhuddpF
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: PhhoO6M
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: sZiet9u
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: SMKajb9
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: W3ouDUu
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: nDYaG45
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: Zz9Ryjb
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: kJWcCJl
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: RfpldLX
+info: pid:  6488. IDENTIFIER: 20rLucE. case 1 (fork 15700)
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: M1q1TWz
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: yYTlYJu
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: CC3Rq8B
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: gZixC2Z
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: DMEnoGj
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: wtavmxt
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: hbltjv7
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: cyZ7lXD
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: HUA0D4e
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: hXsP5jG
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: TKvs3PJ
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: Guj0cJ7
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: Ug62v3V
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: JI6VB6o
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: 9Ff2Vj4
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: wawm5dp
+info: pid: 11076. IDENTIFIER: j7DZOkH. Codefresh random string: aQdpWi2
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: x3w97RA
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: 5a4n3Yg
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: Gr3zJ9D
+info: pid: 11076. IDENTIFIER: j7DZOkH. case 0 (update)
+info: pid: 10924. IDENTIFIER: gTxB2YT. Codefresh random string: DCPFDRo
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: bNHgsKQ
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: hL3gyQN
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: y4WV2CH
+info: pid: 10924. IDENTIFIER: gTxB2YT. case 2 (exit)
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: 01FCInA
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: b6XbnGK
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: GFLyHHe
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: dFgescX
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: Tmyqty7
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: IbvmN0E
+info: pid:  6488. IDENTIFIER: 20rLucE. Codefresh random string: Yn5UGvK
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: 4Bg2ARm
+info: pid:  6488. IDENTIFIER: 20rLucE. case 2 (exit)
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: gq4x8Bk
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: CcPTOa9
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: HM0VzSu
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: IgMBXa8
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: d8Ffxpf
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: HlgRURf
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: d64SYW0
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: DrlVdsa
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: VOYEXUx
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: YZYv2xC
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: OHoUgQC
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: 7FofnYM
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: qgw4zjO
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: 4ISnRGZ
+info: pid: 11076. IDENTIFIER: 9LPm3VP. Codefresh random string: MTSSgpC
+info: pid: 11076. IDENTIFIER: 9LPm3VP. case 2 (exit)
+info: Start new process with arguments: IDENTIFIER-20rLucE PARENT-6488
+info: kill 6488 process from 15700
+error: process 6488 not found. Can't kill it.
+info: pid: 15700. IDENTIFIER: 20rLucE. case (expired ID) get new one
+info: pid: 15700. IDENTIFIER: DQTGdhp. case 2 (exit)

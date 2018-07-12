@@ -1,7 +1,17 @@
 const fetch = require('node-fetch');
 const child_process = require('child_process');
-const terminate = require('terminate');
-const ps = require('ps-node');
+const winston = require('winston');
+
+// Delay between iterations
+const DELAY = 0;
+
+const logger = winston.createLogger({
+  level: 'info',
+  format: winston.format.simple(),
+  transports: [
+    new winston.transports.File({ filename: 'app.log' }),
+  ],
+});
 
 const getIdUrl = 'http://localhost:3000/api/getIdentifier';
 const useIdUrl = 'http://localhost:3000/api/';
@@ -11,23 +21,16 @@ const useIdUrl = 'http://localhost:3000/api/';
  * Parameter is omitted for the first instance
  */
 let currentId = process.argv[2];
+
+/**
+ * Child process get parent`s pid via second command line parameter
+ * Parameter is omitted for the first instance
+ */
 let oldProcess = process.argv[3];
-console.log(currentId, oldProcess);
 
-// Exit on signal from child process
-process.on('SIGTERM', () => {
-  console.log('Got SIGTERM signal.');
-  process.exit();
-});
-
-process.on('message', msg => {
-  console.log('msg', msg);
-  process.exit();
-});
+logger.info(`Start new process with arguments: IDENTIFIER-${currentId} PARENT-${oldProcess}`);
 
 mainLoop();
-
-// console.log('asdasd2111133333333333333333333333333333');
 
 /* End */
 
@@ -55,24 +58,22 @@ async function useId(id) {
  * @returns {Promise<boolean>} - stop-flag. If true - app will stop
  */
 async function main() {
-  // Kill old process if exist
   if (oldProcess) {
-    const killIt = oldProcess;
+    // Kill old process if exist
+    logger.info(`kill ${oldProcess} process from ${process.pid}`);
+    try {
+      process.kill(oldProcess);
+    } catch(e) {
+      logger.error(`process ${oldProcess} not found. Can't kill it.`);
+    }
     oldProcess = null;
-    // setTimeout(() => {
-      console.log(`kill ${killIt} process`);
-
-      process.kill(killIt, 0);
-    // process.send('message "kill"');
-    // process.disconnect();
-    // }, 0);
   }
 
   // Will get new ID for the first time and for 'case 0'
   if (!currentId)
     currentId = await getId();
 
-  await delay(500);
+  await delay(DELAY);
 
   const result = await useId(currentId);
 
@@ -80,39 +81,26 @@ async function main() {
 
   switch (String(result)) {
     case '0':
-      console.log(`${baseLog} case 0 (update)`);
+      logger.info(`${baseLog} case 0 (update)`);
       currentId = null;
       return false;
 
     case '1':
-      const fork = child_process.spawn(
-        'node',
-        [__filename, String(currentId), String(process.pid)],
-        {detached: true, stdio: 'inherit'}
-      );
-      // fork.unref();
-      console.log(`${baseLog} case 1 (fork ${fork.pid})`);
-      await delay(2000);
-      // fork.on('message', (msg) => {
-      //   console.log('msg2', msg, process.pid);
-      //   process.exit();
-      // });
-
-      // const fork = child_process.fork(__filename, [currentId, process.pid], {});
-      // console.log(`${baseLog} case 1 (fork ${fork.pid})`);
-      // fork.on('message', (msg) => {
-      //   console.log('msg2', msg, process.pid);
-      //   process.exit();
-      // });
+      const childPid = spawnProcess();
+      logger.info(`${baseLog} case 1 (fork ${childPid})`);
       return false;
 
     case '2':
-      console.log(`${baseLog} case 2 (exit)`);
-      currentId = null; //TODO: remove this line
+      logger.info(`${baseLog} case 2 (exit)`);
+      return true;
+
+    case 'identifier does not exist':
+      logger.info(`${baseLog} case (expired ID) get new one`);
+      currentId = null;
       return false;
 
     default:
-      console.log(`${baseLog} ${result}`);
+      logger.info(`${baseLog} ${result}`);
       return false;
   }
 }
@@ -122,20 +110,24 @@ async function main() {
  * @returns {Promise<void>}
  */
 async function mainLoop() {
-  // while(1) {
-  //   if (await main()) break;
-  // }
-  if (await main()) process.exit();
-  setTimeout(mainLoop, 0);
-  // process.stdin.resume();
-  // f();
-}
-
-function f() {
-  console.log(process.pid, 'tick');
-  setTimeout(f, 1000);
+  // if (await main()) process.exit();
+  // setTimeout(mainLoop, 0);
+  while (!await main()){}
 }
 
 async function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function spawnProcess() {
+  const fork = child_process.spawn(
+    'node',
+    [__filename, currentId || '', process.pid],
+    {
+      detached: true,
+      stdio: 'ignore',
+    },
+  );
+  fork.unref();
+  return fork.pid;
 }

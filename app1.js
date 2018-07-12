@@ -10,6 +10,8 @@ const useIdUrl = 'http://localhost:3000/api/';
  */
 let currentId = process.argv[2];
 
+console.log(`Start new instance, pid ${process.pid}`);
+
 mainLoop();
 
 /* End */
@@ -38,6 +40,7 @@ async function useId(id) {
  * @returns {Promise<boolean>} - stop-flag. If true - app will stop
  */
 async function main() {
+
   // Will get new ID for the first time and for 'case 0'
   if (!currentId)
     currentId = await getId();
@@ -53,7 +56,7 @@ async function main() {
       return false;
 
     case '1':
-      console.log(`${baseLog} case 1 (fork)`);
+      console.log(`${baseLog} case 1 (fork), pid ${process.pid}`);
       child_process.fork(__filename, [currentId], {});
       return true;
 
@@ -72,5 +75,11 @@ async function main() {
  * @returns {Promise<void>}
  */
 async function mainLoop() {
-  while(!await main()){}
+  while(!await main()) {
+    await delay(500);
+  }
+}
+
+async function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
