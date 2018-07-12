@@ -1,5 +1,17 @@
 const fetch = require('node-fetch');
 const child_process = require('child_process');
+const winston = require('winston');
+
+// Delay between iterations
+const DELAY = 500;
+
+const logger = winston.createLogger({
+  level: 'info',
+  format: winston.format.simple(),
+  transports: [
+    new winston.transports.File({ filename: 'app.log' }),
+  ],
+});
 
 const getIdUrl = 'http://localhost:3000/api/getIdentifier';
 const useIdUrl = 'http://localhost:3000/api/';
@@ -10,7 +22,12 @@ const useIdUrl = 'http://localhost:3000/api/';
  */
 let currentId = process.argv[2];
 
-console.log(`Start new instance, pid ${process.pid}`);
+logger.info(`Start new instance, pid ${process.pid}`);
+
+// disconnect from parent process to let it close
+if (process.disconnect) {
+  process.disconnect();
+}
 
 mainLoop();
 
@@ -49,23 +66,35 @@ async function main() {
 
   const baseLog = `pid: ${String(process.pid).padStart(5)}. IDENTIFIER: ${currentId}.`;
 
+  await delay(DELAY);
+
   switch (String(result)) {
     case '0':
-      console.log(`${baseLog} case 0 (update)`);
+      logger.info(`${baseLog} case 0 (update)`);
       currentId = null;
       return false;
 
     case '1':
-      console.log(`${baseLog} case 1 (fork), pid ${process.pid}`);
-      child_process.fork(__filename, [currentId], {});
+      const fork = child_process.fork(
+        __filename,
+        [currentId],
+        {
+          silent: true,
+          detached: true,
+          stdio: 'ignore',
+        }
+      );
+      fork.unref();
+
+      logger.info(`${baseLog} case 1 (fork ${fork.pid})`);
       return true;
 
     case '2':
-      console.log(`${baseLog} case 2 (exit)`);
+      logger.info(`${baseLog} case 2 (exit)`);
       return true;
 
     default:
-      console.log(`${baseLog} ${result}`);
+      logger.info(`${baseLog} ${result}`);
       return false;
   }
 }
@@ -75,9 +104,9 @@ async function main() {
  * @returns {Promise<void>}
  */
 async function mainLoop() {
-  while(!await main()) {
-    await delay(500);
-  }
+  if (await main()) process.exit();
+  setTimeout(mainLoop, 0);
+  // while(!await main()) {}
 }
 
 async function delay(ms) {
