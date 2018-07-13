@@ -4,8 +4,11 @@
   "description": "First application",
   "main": "index.js",
   "scripts": {
-    "app1": "node ./app1.js",
-    "app2": "node ./app2.js",
+    "app1": "node ./src/app1.js",
+    "app2": "node ./src/app2.js",
+    "doc": "node node_modules/jsdoc/jsdoc.js src -r -d documentation",
+    "lint": "node node_modules/eslint/bin/eslint.js src",
+    "lint-fix": "node node_modules/eslint/bin/eslint.js src --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -15,5 +18,13 @@
     "ps-node": "^0.1.6",
     "terminate": "^2.1.0",
     "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^4",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-import": "^2.13.0",
+    "jsdoc": "^3.5.5"
   }
 }

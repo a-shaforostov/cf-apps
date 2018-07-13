@@ -1,8 +1,14 @@
-const child_process = require('child_process');
-const { logger, getId, useId, delay } = require('./common');
+/**
+ * @module app2
+ */
+
+const childProcess = require('child_process');
+const {
+  logger, getId, useId, delay,
+} = require('./common');
 
 // Delay between iterations
-const DELAY = 0;
+const DELAY = require('./config').app2Delay;
 
 // Only one child process can be spawned
 let hasChild = false;
@@ -27,7 +33,7 @@ mainLoop();
 
 /**
  * Main logic. 1-3 steps.
- * @returns {Promise<boolean>} - stop-flag. If true - app will stop
+ * @returns {Promise<boolean>} Stop-flag. If true - app will stop
  */
 async function main() {
   if (oldProcess) {
@@ -35,7 +41,7 @@ async function main() {
     logger.info(`kill ${oldProcess} process from ${process.pid}`);
     try {
       process.kill(oldProcess);
-    } catch(e) {
+    } catch (e) {
       logger.error(`process ${oldProcess} not found. Can't kill it.`);
     }
     oldProcess = null;
@@ -69,7 +75,7 @@ async function main() {
       return false;
 
     case '2':
-      logger.info(`${baseLog} case 2 (exit)`);
+      logger.info(`case 2 (exit)`);
       return true;
 
     case 'identifier does not exist':
@@ -88,15 +94,19 @@ async function main() {
  * @returns {Promise<void>}
  */
 async function mainLoop() {
-  while (!await main()){}
+  let stop;
+  while (!stop) {
+    stop = await main();
+  }
+  process.exitCode = 0;
 }
 
 /**
  * Spawn new process in detached mode
- * @returns {Number} - process pid
+ * @returns {Number} process pid
  */
 function spawnProcess() {
-  const child = child_process.spawn(
+  const child = childProcess.spawn(
     'node',
     [__filename, currentId || '', process.pid],
     {

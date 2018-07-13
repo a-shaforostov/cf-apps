@@ -1,8 +1,14 @@
-const child_process = require('child_process');
-const { logger, getId, useId, delay } = require('./common');
+/**
+ * @module app1
+ */
+
+const childProcess = require('child_process');
+const {
+  logger, getId, useId, delay,
+} = require('./common');
 
 // Delay between iterations
-const DELAY = 0;
+const DELAY = require('./config').app1Delay;
 
 /**
  * Child process get id for processing via first command line parameter
@@ -23,10 +29,9 @@ mainLoop();
 
 /**
  * Main logic. 1-3 steps.
- * @returns {Promise<boolean>} - stop-flag. If true - app will stop
+ * @returns {Promise<boolean>} Stop-flag. If true - app will stop
  */
 async function main() {
-
   // Will get new ID for the first time and for 'case 0'
   if (!currentId) {
     currentId = await getId();
@@ -44,10 +49,11 @@ async function main() {
       currentId = null;
       return false;
 
-    case '1':
+    case '1': {
       const fork = forkProcess();
       logger.info(`${baseLog} case 1 (fork ${fork.pid})`);
       return true;
+    }
 
     case '2':
       logger.info(`${baseLog} case 2 (exit)`);
@@ -64,19 +70,23 @@ async function main() {
  * @returns {Promise<void>}
  */
 async function mainLoop() {
-  if (await main()) process.exit();
+  if (await main()) process.exit(0);
   setTimeout(mainLoop, 0);
 }
 
+/**
+ * Fork new process in detached mode
+ * @returns {Number} process pid
+ */
 function forkProcess() {
-  const fork = child_process.fork(
+  const fork = childProcess.fork(
     __filename,
     [currentId],
     {
       silent: true,
       detached: true,
       stdio: 'ignore',
-    }
+    },
   );
   fork.unref();
   return fork;
