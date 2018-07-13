@@ -6,10 +6,11 @@ In cf-apps
 * `npm install`
 * `npm run app1` - run first application
 * `npm run app2` - run second application
+Result will be in app.log
 
 Dev tools
 * `npm run lint` - run linter
-* `npm run doc` - build jsdoc. Result is in documentation folder
+* `npm run doc` - build jsdoc. Result will appear in documentation folder
 
 You can specify delays in config.js to get process switch more smoothly. (Use can use 500 ms. Default 0) 
 

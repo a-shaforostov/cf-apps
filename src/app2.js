@@ -108,7 +108,7 @@ async function mainLoop() {
 function spawnProcess() {
   const child = childProcess.spawn(
     'node',
-    [__filename, currentId || '', process.pid],
+    ['./src/app2.js', currentId || '', process.pid],
     {
       detached: true,
       stdio: 'ignore',

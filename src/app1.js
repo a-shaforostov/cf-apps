@@ -70,8 +70,11 @@ async function main() {
  * @returns {Promise<void>}
  */
 async function mainLoop() {
-  if (await main()) process.exit(0);
-  setTimeout(mainLoop, 0);
+  let stop;
+  while (!stop) {
+    stop = await main();
+  }
+  process.exitCode = 0;
 }
 
 /**
