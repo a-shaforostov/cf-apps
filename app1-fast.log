@@ -1,0 +1,21 @@
+info: Start new instance, pid 10388
+info: pid: 10388. IDENTIFIER: CmqIcZw. Codefresh random string: Bxsk6eZ
+info: pid: 10388. IDENTIFIER: CmqIcZw. Codefresh random string: VuLWOxU
+info: pid: 10388. IDENTIFIER: CmqIcZw. Codefresh random string: vqlT6wy
+info: pid: 10388. IDENTIFIER: CmqIcZw. Codefresh random string: K2q7DFe
+info: pid: 10388. IDENTIFIER: CmqIcZw. Codefresh random string: olAZwFZ
+info: pid: 10388. IDENTIFIER: CmqIcZw. case 0 (update)                         ID updating
+info: pid: 10388. IDENTIFIER: eh1Ldar. Codefresh random string: qrJsGqr        new ID is used from here
+info: pid: 10388. IDENTIFIER: eh1Ldar. Codefresh random string: Rn6YdYy
+info: pid: 10388. IDENTIFIER: eh1Ldar. Codefresh random string: OMa5Ue4
+info: pid: 10388. IDENTIFIER: eh1Ldar. Codefresh random string: ElUgNpZ
+info: pid: 10388. IDENTIFIER: eh1Ldar. Codefresh random string: XJdgyRq
+info: pid: 10388. IDENTIFIER: eh1Ldar. Codefresh random string: XEKpVRH
+info: pid: 10388. IDENTIFIER: eh1Ldar. case 1 (fork 9360)                      forking of process
+info: Start new instance, pid 9360                                             new process started here
+info: pid:  9360. IDENTIFIER: eh1Ldar. Codefresh random string: vLvMjn2        loop of new process 9360
+info: pid:  9360. IDENTIFIER: eh1Ldar. Codefresh random string: EoegIp8
+info: pid:  9360. IDENTIFIER: eh1Ldar. Codefresh random string: SmOVlJa
+info: pid:  9360. IDENTIFIER: eh1Ldar. Codefresh random string: q3qECnG
+info: pid:  9360. IDENTIFIER: eh1Ldar. Codefresh random string: W3Ifnkl
+info: pid:  9360. IDENTIFIER: eh1Ldar. case 2 (exit)                           process is finished

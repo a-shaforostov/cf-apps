@@ -1,0 +1,136 @@
+info: Start new process with arguments: IDENTIFIER-undefined PARENT-undefined
+info: pid: 16000. IDENTIFIER: mTb8U6E. case 1 (fork 3180)                             The first iteration and case 1 right off 
+info: pid: 16000. IDENTIFIER: mTb8U6E. Codefresh random string: 26ZTFbb               The first process continues processing while new process will be spawned
+info: pid: 16000. IDENTIFIER: mTb8U6E. Codefresh random string: qW52ukw
+info: pid: 16000. IDENTIFIER: mTb8U6E. case 2 (exit)                                  The first process was exited by case 2
+info: Start new process with arguments: IDENTIFIER-mTb8U6E PARENT-16000               New process was started
+info: kill 16000 process from 3180                                                    Trying to kill parent
+error: process 16000 not found. Can't kill it.                                        Can't kill because parent was exited before
+info: pid:  3180. IDENTIFIER: mTb8U6E. case (expired ID) get new one                  Can't use ID because it was expired when parent process was exited by case 2. Need to get new ID.
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: vWYsEQF               New ID used for next actions
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: MNzKutt
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: UcD2lox
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: oxfYh1b
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: hyMhkEn
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: EpYXbKa
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: EDrynKl
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: bGMMXOY
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: mihghJU
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: HzX7bUF
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: xZa5UVm
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: MGNdBDx
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: GOArbEk
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 0j4qvT8
+info: pid:  3180. IDENTIFIER: R1iQmLZ. case 1 (fork 21976)                            New process should be spawned in reason of case 1
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: ofwh1vs               Old process continues processing while new process will be spawned
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 9BWC7GL
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: JOrlyWt
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: FrNLEdX
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 94bZLE8
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 6eAqRgf
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 6HEMELz
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: UAn2L6q
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: VbzXG1L
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: cf73K46
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: lLlBWEX
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 75TxYCD
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: P1CJqrr
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: sHz93Ex
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: IL20k1y
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: isj3HpU
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: OkhFrdV
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: hyG17ff
+info: pid:  3180. IDENTIFIER: R1iQmLZ. case 1 (we have a child process already)       Trying to spawn new process in reason case 1, but can't do it because we have one child already
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: lGyEKqF
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: v2lHiiU
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 49GTPkh
+info: pid:  3180. IDENTIFIER: R1iQmLZ. case 1 (we have a child process already)       The same behavior in next case 1
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: BmStCaV
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: YgJTTfa
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: cK10tLr
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: igFqGz4
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: bohjM67
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: mmCcMJz
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: oD5w6QO
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: mHjJoC9
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: xyHOpCs
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 9szpQ2d
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: rT5BJn3
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 4ZvUd6f
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 9ekCqOr
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: ywMTUQ3
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: nLyCsSX
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 4oXxpIr
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: F1SyIsF
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: BYtI93c
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: DAezBns
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: DtlpDmG
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: w2HKJdG
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: aFzNEDP
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: urBuiT9
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: wLaD4TO
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: T31MYwT
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: h1Y9Fy8
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: OCaJm6N
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: PgefbP6
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: myDXrKF
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: B9m0m60
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: Us6h7dP
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: HVZNCcD
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: oyowYVx
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: JLmOPiF
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 5WtQyPG
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: Dd5PEZd
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: 3WC7k9p
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: oTXTiCk
+info: pid:  3180. IDENTIFIER: R1iQmLZ. case 1 (we have a child process already)       And again
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: zb2vbFE
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: t7LYT7L
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: wlWiSQp
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: e8WeOEV
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: VuVVEhn
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: wBiysac
+info: pid:  3180. IDENTIFIER: R1iQmLZ. Codefresh random string: xLAvWqD
+info: Start new process with arguments: IDENTIFIER-R1iQmLZ PARENT-3180                At last new process has started
+info: kill 3180 process from 21976                                                    Kill parent
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: ab12TJY               New process doing work
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: NUQw39u
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: khYZzYb               ...Very similar staff in next actions...
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: fXcCJnj
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: 9XroBhH
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: YqN967p
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: kjXNGcE
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: uS7H1c5
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: BLPKLH2
+info: pid: 21976. IDENTIFIER: R1iQmLZ. case 1 (fork 23980)
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: ieUCDTV
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: K1FBqg8
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: QbegR2u
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: JzPm5FY
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: knyEaxT
+info: pid: 21976. IDENTIFIER: R1iQmLZ. Codefresh random string: DMflcPZ
+info: pid: 21976. IDENTIFIER: R1iQmLZ. case 0 (update)
+info: pid: 21976. IDENTIFIER: 77bVLYe. case 1 (we have a child process already)
+info: pid: 21976. IDENTIFIER: 77bVLYe. Codefresh random string: 9i1P7VO
+info: pid: 21976. IDENTIFIER: 77bVLYe. Codefresh random string: OGIsiLF
+info: pid: 21976. IDENTIFIER: 77bVLYe. Codefresh random string: QVb2Oyj
+info: pid: 21976. IDENTIFIER: 77bVLYe. Codefresh random string: Ics4q21
+info: pid: 21976. IDENTIFIER: 77bVLYe. Codefresh random string: eSvw1pb
+info: pid: 21976. IDENTIFIER: 77bVLYe. Codefresh random string: PXwiiGh
+info: pid: 21976. IDENTIFIER: 77bVLYe. case 2 (exit)
+info: Start new process with arguments: IDENTIFIER-R1iQmLZ PARENT-21976
+info: kill 21976 process from 23980
+error: process 21976 not found. Can't kill it.
+info: pid: 23980. IDENTIFIER: R1iQmLZ. case (expired ID) get new one
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: k5sqmIE
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: iSBnUso
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: syVbvs7
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: b5LVYPg
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: zeb52Dw
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: gyeoSAM
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: W4aWbIL
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: 0uMwbx8
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: jPoQAPZ
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: 1LQ0InD
+info: pid: 23980. IDENTIFIER: eY49XHG. Codefresh random string: RLWtFh6
+info: pid: 23980. IDENTIFIER: eY49XHG. case 2 (exit)                                 The last process is exited
